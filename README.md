@@ -122,4 +122,12 @@ B = 123.68
   >
   > arXiv：<https://arxiv.org/abs/1904.04514>
   
+- 《Hard Pixels Mining: Learning Using Privileged Information for Semantic Segmentation》
+  
+  > 注：在NYU-v2数据集上，超越DeepLabV3+、PSPNet、RDFNet
+  >
+  > Date：2019	Author：上海交通大学
+  >
+  > arXiv：<https://arxiv.org/abs/1906.11437>
+  
   
